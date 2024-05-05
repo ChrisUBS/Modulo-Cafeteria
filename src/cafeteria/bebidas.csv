@@ -1,0 +1,5 @@
+Id,activo,nombre,precio,tipo,dimension
+1,true,cafe,100.0,caliente,chico
+2,true,jugo,150.0,fria,grande
+3,true,agua,50.0,fria,chico
+4,true,frappe,200.0,frappe,grande
